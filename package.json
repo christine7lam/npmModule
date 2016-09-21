@@ -4,7 +4,7 @@
   "description": "Christine's first module",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha --reporter spec tests"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/christine7lam/npmModule/issues"
   },
-  "homepage": "https://github.com/christine7lam/npmModule#readme"
+  "homepage": "https://github.com/christine7lam/npmModule#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
 }
