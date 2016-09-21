@@ -1,0 +1,22 @@
+{
+  "name": "christinemodule",
+  "version": "1.0.0",
+  "description": "Christine's first module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christine7lam/npmModule.git"
+  },
+  "keywords": [
+    "cmodule"
+  ],
+  "author": "ChristineHP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christine7lam/npmModule/issues"
+  },
+  "homepage": "https://github.com/christine7lam/npmModule#readme"
+}
