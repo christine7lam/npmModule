@@ -4,7 +4,7 @@
   "description": "Christine's first module",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter spec tests"
+    "test": "mocha --reporter spec test"
   },
   "repository": {
     "type": "git",
