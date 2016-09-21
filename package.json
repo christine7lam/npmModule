@@ -4,7 +4,8 @@
   "description": "Christine's first module",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter spec test"
+    "testing": "mocha --reporter spec test",
+    "test" : "jest"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
   "homepage": "https://github.com/christine7lam/npmModule#readme",
   "devDependencies": {
     "chai": "^3.5.0",
+    "jest": "^15.1.1",
     "mocha": "^3.0.2"
   }
 }
